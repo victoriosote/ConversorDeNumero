@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConversorLetra", "ConversorLetra\ConversorLetra.csproj", "{CFB472F9-E663-4D17-B6CC-20369848D5CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnitTestConversor", "NUnitTestConversor\NUnitTestConversor.csproj", "{7AB82D15-AD91-4CA4-A0C1-47DC5C86EAE0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFB472F9-E663-4D17-B6CC-20369848D5CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFB472F9-E663-4D17-B6CC-20369848D5CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFB472F9-E663-4D17-B6CC-20369848D5CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFB472F9-E663-4D17-B6CC-20369848D5CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AB82D15-AD91-4CA4-A0C1-47DC5C86EAE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AB82D15-AD91-4CA4-A0C1-47DC5C86EAE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AB82D15-AD91-4CA4-A0C1-47DC5C86EAE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AB82D15-AD91-4CA4-A0C1-47DC5C86EAE0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12B0289A-2116-46C0-8E2E-1EFD48C44D44}
+	EndGlobalSection
+EndGlobal
